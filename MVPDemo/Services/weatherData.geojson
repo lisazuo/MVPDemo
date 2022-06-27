@@ -1,0 +1,38 @@
+[
+    {
+        "locationName":"Beijing",
+        "iconName": "rainy.png",
+        "date":"2022.05.01",
+        "currentTemp":14,
+        "description":"Partly Rainy",
+        "latitude":39.9,
+        "longitude":116.3
+    },
+    {
+        "locationName":"Tokyo",
+        "iconName": "sunny.png",
+        "date":"2022.05.11",
+        "currentTemp":30,
+        "description":"Sunny",
+        "latitude":35.41,
+        "longitude":139.44
+    },
+    {
+        "locationName":"Canada",
+        "iconName": "sunnyTocloud.png",
+        "date":"2022.05.03",
+        "currentTemp":17,
+        "description":"sunnyTocloud",
+        "latitude":41,
+        "longitude":-52
+    },
+    {
+        "locationName":"NewZealand",
+        "iconName": "sunnyToRain.png",
+        "date":"2022.05.02",
+        "currentTemp":19,
+        "description":"sunnyToRain",
+        "latitude":-34,
+        "longitude":166
+    }
+]
